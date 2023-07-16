@@ -1,12 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, We're The Flinders University Computer Society</h1>
+<h3 align="center">Based in Adelaide, South Australia from Flinders University</h3>
 
+- 🔭 Learn more about us at [flinderscs.com](https://flinderscs.com)
 
+- 👨‍💻 Signup as a member at [Member Registration Link](https://docs.google.com/forms/d/e/1FAIpQLSfQVJQ8fAtKg3LzXtNnjFTS3iyQgGBbZBVko83lnGlrr8WZ-g/viewform)
 
-**Here are some ideas to get you started:**
+- 🤝 We're always looking for **Speakers for our workshops, members, volunteers and people to connect with**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- 💬 Talk to us about **IT, Computer Science, STEM at Flinders**
 
+- 📫 How to reach us **flinderscs@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fucs_flinders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fucs_flinders" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/flinderscs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flinderscs" height="30" width="40" /></a>
+<a href="https://fb.com/flinderscs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="flinderscs" height="30" width="40" /></a>
+<a href="https://instagram.com/flinderscs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flinderscs" height="30" width="40" /></a>
+<a href="https://discord.gg/bgnF5gBXxF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bgnF5gBXxF" height="30" width="40" /></a>
+</p>
