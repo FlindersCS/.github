@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're The Flinders University Computer Society</h1>
-<h3 align="center">Based in Adelaide, South Australia from Flinders University</h3>
+<h3 align="center">Based in Adelaide, South Australia at <a href="https://flinders.edu.au" Flinders University</a></h3>
 
 - 🔭 Learn more about us at [flinderscs.com](https://flinderscs.com)
 
