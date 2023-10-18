@@ -9,7 +9,7 @@
 
 - 💬 Talk to us about **IT, Computer Science, STEM at Flinders**
 
-- 📫 How to reach us **flinderscs@gmail.com**
+- 📫 How to reach us **computer.society@flinders.edu.au**
 
 <h3 align="left">Connect with us at:</h3>
 <p align="left">
